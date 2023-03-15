@@ -2,7 +2,7 @@
 
 *Practice Clojure using Interactive Programming in your editor.*
 
- [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/pez/rich4clojure)
+ [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dudelson/rich4clojure)
 
 
 ![Rich 4Clojure](doc/images/rich4clojure-header.png)
@@ -33,9 +33,9 @@ To get to where you can start solving problems there are basically two alternati
 
 This repository is prepared for [Gitpod](https://gitpod.io) such that both the [Clojure tools](https://clojure.org/guides/deps_and_cli) and [Calva](https://calva.io) are installed.
 
-That means you can start training Clojure like so by opening https://gitpod.io/#https://github.com/PEZ/rich4clojure in your web browser.
+That means you can start training Clojure like so by opening https://gitpod.io/#https://github.com/dudelson/rich4clojure in your web browser.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/pez/rich4clojure)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dudelson/rich4clojure)
 
 It sometimes takes quite a while (even 5+ minutes) for the environment to be prepared. Grab some coffee. 😄
 
